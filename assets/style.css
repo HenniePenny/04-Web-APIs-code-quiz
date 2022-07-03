@@ -23,5 +23,8 @@ body {
 
 /*styles the buttons of the questions*/
 .btn {
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: red;
 }
