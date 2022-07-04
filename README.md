@@ -2,7 +2,10 @@
 
 The task is to create a timed quiz on JavaScript fundamentals that stores high scores of the participants. 
 
-## Screenshot
+## Screenshots
+![Screenshot of start quiz page](./assets/images/start-page.JPG)  
+![Screenshot of first question page](./assets/images/firstquestion-page.JPG)
+
 
 ## Acceptance Criteria
 
@@ -24,5 +27,6 @@ THEN I can save my initials and score
 - moving to next question on the click of any answer button in the previous question
 - displaying the "right" or "wrong" confirmation after answering a question
 
-
 ## Links
+- [Deployment Link](https://henniepenny.github.io/04-Web-APIs-code-quiz/)
+- [Repository Link](https://github.com/HenniePenny/04-Web-APIs-code-quiz)
