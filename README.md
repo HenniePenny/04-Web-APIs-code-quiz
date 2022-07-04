@@ -21,6 +21,8 @@ The task is to create a timed quiz on JavaScript fundamentals that stores high s
 - subtracting time from timer for wrong answers
 - moving to next question on the click of any answer button in the previous question
 - displaying the "right" or "wrong" confirmation after answering a question
+- displaying the score at the end of the quiz
+- saving the score in local storage
 
 ## Links
 - [Deployment Link](https://henniepenny.github.io/04-Web-APIs-code-quiz/)
